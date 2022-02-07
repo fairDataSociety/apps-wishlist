@@ -17,3 +17,4 @@ Add your ideas and do a pull request. Or pick one from below and implement it. V
 - Photo Album
 - Fairpress (Wordpress alternative)
 - HackMD saves to Fairdrop
+- Video player
