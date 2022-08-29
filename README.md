@@ -12,9 +12,9 @@ Add your ideas and do a pull request. Or pick one from below and implement it. V
 - Popcorn
 - Radio music player
 - Document editor
-- Notes app
+- ~~[Notes app](https://github.com/fairDataSociety/dracula.me)~~
 - Password Manager
-- Photo Album
+- ~~[Photo Album](https://github.com/fairDataSociety/fairdrive-apps-photoalbum)~~
 - Fairpress (Wordpress alternative)
 - HackMD saves to Fairdrop
 - Video player
